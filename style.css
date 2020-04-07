@@ -1,0 +1,59 @@
+body
+{
+height:1200px;
+margin:0 auto;
+}
+.orange
+{
+	margin-top:50px;
+background-color: orange;
+ width:1200px;
+ height:300px;
+ margin-left:50px;
+ position: relative;
+}
+
+.yellow
+{
+height:250px;
+width:550px;
+background-color:yellow;
+position:absolute;
+right:20px;
+top:20px;
+}
+
+
+.blue
+{
+margin-top:50px;
+height:550px;
+width:590px;
+margin-right: 20px;
+margin-left: 50px;
+background-color: blue;
+display:inline-block;
+
+
+}
+ul
+{
+
+display:inline-block;
+}
+ul  li
+{
+	background-color: purple;
+	margin-top:50px;
+	height:150px;
+	width:590px;
+}
+.green
+{
+	background-color:green;
+	height:400px;
+	width:600px;
+	margin-top:50px;
+	margin:0 auto;
+
+}
